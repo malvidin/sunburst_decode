@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "Sunburst Decode",
+    "id": {
+      "group": null,
+      "name": "sunburst_decode",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "malvidin",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "Decodes known substitution, custom base32, and activity date/antivirus info used by the Sunburst DGA algorithms.",
+    "classification": {
+      "intendedAudience": "Security Specialists",
+      "categories": ["Utilities"],
+      "developmentStatus": "Beta"
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": "Apache License, Version 2.0",
+      "text": "./LICENSE",
+      "uri": "https://spdx.org/licenses/Apache-2.0.html"
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": "./README.md",
+      "uri": null
+    }
+  },
+  "dependencies": null,
+  "tasks": null
+}
